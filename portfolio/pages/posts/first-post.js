@@ -17,12 +17,12 @@ export default function FirstPost() {
                         <a>Back to Home</a>
                     </Link>
 
-                    <Image
+                    {/* <Image
                         src="/images/perfil.jpg"
                         width={300}
                         height={400}
                         alt="Meu perfil"
-                    />
+                    /> */}
 
                 </h2>
             </Layout>
