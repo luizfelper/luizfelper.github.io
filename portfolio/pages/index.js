@@ -13,11 +13,11 @@ export default function Home() {
           <link rel="icon" href="/favicon.ico" />
         </Head>
         <section className={ultilStyles.headingMd}>
-          <p>Sua descrição aqui</p>
-          <p>
-            (This is a sample website - you'll be building a site like this on {' '}
-            <a href="https://nextjs.org/learn">our Next.js tutorial</a>.) 
-          </p>
+          <p>Olá, eu sou Luiz. Sou engenheiro de software e analista de sistemas.{' '}
+          Você pode me contactar pelo <a href="">LinkedIn</a></p>
+
+          <p>Hi, I'm Luiz. I am a software engineer and systems analyst.{' '}
+          You can contact me on <a href="">LinkedIn</a></p>
         </section>
       </Layout>
     
